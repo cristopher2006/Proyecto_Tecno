@@ -1,0 +1,28 @@
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.crud.resources
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.secretaria.resources
+c:\users\pc 23 lab 4\documents\visual studio 2015\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.cliente.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbprojResolveAssemblyReference.cache
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.cliente.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.crud.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.secretaria.resources
+C:\Users\PC 23 lab 4\Downloads\WindowsApplication2\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
